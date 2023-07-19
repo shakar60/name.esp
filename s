@@ -1,4 +1,9 @@
-
+game.StarterGui:SetCore("SendNotification", {
+Title = "Box Esp Loaded"; 
+Text = "Made by shakar#6955"; 
+Duration = 5; 
+})
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
