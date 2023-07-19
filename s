@@ -1,5 +1,5 @@
 game.StarterGui:SetCore("SendNotification", {
-Title = "Box Esp Loaded"; 
+Title = "Name Esp Loaded"; 
 Text = "Made by shakar#6955"; 
 Duration = 5; 
 })
